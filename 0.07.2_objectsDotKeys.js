@@ -11,5 +11,6 @@ Object.keys(obj);
 to be returned.
 
 Object.keys() returns an array of which the elements are strings corresponding the enumerable properties 
-found directly upon Object. */
+found directly upon Object. The order of the properties is equivalent to the one stated by looping over
+the properties manually. */
 
