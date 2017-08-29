@@ -1,6 +1,8 @@
 //-----------------------------------------------------------------------------------------------------------
 //new Operator
 //-----------------------------------------------------------------------------------------------------------
+//NOTE: For more information on constructors, see file 0.09.1_constructorMethod.js
+
 
 /* The new operator has the ability to create a user-defined object type, or one of the built-in object types 
 that has a constructor function. The syntax is below: */
