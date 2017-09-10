@@ -1,6 +1,7 @@
-//---------------------------------------------------------------------------------------------
+//***************************************************************************************
 //The constructor Method	|	Created: Tuesday, August 29th, 2017
-//---------------------------------------------------------------------------------------------
+//***************************************************************************************
+
 
 /* I saw the constructor method for the first time when doing my research for on The new Operator
 (see file 0.07.1_newOperator.js). As a part of the new operator, it is used as a type of function.

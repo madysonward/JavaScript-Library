@@ -1,8 +1,10 @@
 console.log("Welcome to JavaScript");
 
-//------------------------------------------------------------------------------------------------
+//***************************************************************************************
 //Notes and Code: A Guide for All to Come
-//------------------------------------------------------------------------------------------------
+//***************************************************************************************
+
+
 /* 
 Welcome to JavaScript! The lessons ahead will have both notes and code. Notes can be
 added like the above (lines 3, 4, and 5) for single-lined notes, with two forward slashes, or 
