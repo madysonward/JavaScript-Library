@@ -27,4 +27,27 @@ a parent class.
 
 As one of JavaScript's handy-helpers (AKA, the auto choices it makes for you, when you do not make 
 decisions for yourself), if you, yourself do not specify a constructor method, a default method will be
-chosen for you. */
+chosen for you. The default constructor method for parent classes is: */
+
+constructor(){}
+
+/* ..and the default constructor method for child classes: */
+
+constructor("insert something here"){
+	super("insert something here");
+}
+
+
+/* Some examples of the constructor method being used (including the keyword, super): */
+
+class Polygon {
+	constructor(){
+		this.name = "Polygon";
+	}
+};
+
+class Square extends Polygon {
+	constructor(){
+		super();
+	}
+};

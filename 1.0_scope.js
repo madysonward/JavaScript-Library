@@ -64,7 +64,7 @@ down even further:
 					RHS = source - the immediate value
 
 
-  - Undeclared variable = In Strict Mode (file 1.0_strictMode.js), the compiler was unable to an LHS a proper LHS reference on
+  - Undeclared variable = In Strict Mode (file 2.0_strictMode.js), the compiler was unable to an LHS a proper LHS reference on
 any of the scopes that it has access to. Undeclared and Undefined are NOT the same thing!
 
   - Undefined = An object was declared, so it does have a value, BUT that is a special empty value that has been mistakenly 
@@ -143,7 +143,7 @@ function taz(moo){
 				//is global scope. And because you're not in strict mode, JavaScript will go ahead and create that target (on 
 				//the global scope for you BECAUSE you had an LHS reference. THIS IS VERY IMPORTANT TO UNDERSTAND, and know 
 				//it'd be much different if it were an RHS reference! 
-				//IF you'd been in STRICT MODE (more about this in file 1.0_strictMode.js), after the computer got a response of
+				//IF you'd been in STRICT MODE (more about this in file 2.0_strictMode.js), after the computer got a response of
 				//"Nope! Never heard of the LHS reference of variable, moo.", even on the global scope, it would've ended there, 
 				//and you would've gotten an error condition. This is set up so you can't give assignments to objects that have
 				//never been declared. THIS IS, AGAIN, VERY IMPORTANT! The key difference in something being declared or not, is
