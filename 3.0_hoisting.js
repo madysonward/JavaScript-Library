@@ -15,4 +15,6 @@ Variables are more difficult when it comes to hoisting. The below may not come u
 back as undefined. 
 
 console.log(i);
-var i = 22; */
+var i = 22; 
+
+IMPORTANT: THE let keyword does NOT hoist! */

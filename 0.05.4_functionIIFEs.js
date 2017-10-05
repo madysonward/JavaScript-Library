@@ -1,26 +1,182 @@
-//***************************************************************************************
-//IIFE
-//***************************************************************************************
+//Example #1:
 
-
-/* An IIFE (pronounced "iffy") creates a local scope with added privacy. It's a function 
-that CANNOT be seen from the outside. They're a function that's opened and close with 
-parentheses. You will notice below that the function is never called and never defined. 
-While you won't use them THAT often, when you do... they're VERY important! */
-
-let i = 4;
-console.log(i);
-(function(){
-	var arraigh = [];
-
-		arraigh.push(i, i + 1, i + 2);
-		console.log(arraigh[0]);
-		console.log(arraigh[1]);
-		console.log(arraigh[2]);
-})();
-console.log(i);
-
+var hello = "Hello";
 
 (function(){
-	var superSecret = 195;
+	var hello = "Hello2";
+	console.log(hello); 
 })();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Example #2:
+
+(function($){
+	//jQuery methods go here...	
+})(jQuery);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Example #3:
+function myName(){
+	var firstName = "Madyson";
+	for (let x = 0; x < firstName.length; x++){
+		console.log("insert code to print to console here");
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Example #4
+
+function greetings(world){
+	if (world){
+		let earth = world;
+		if (earth){
+			let planet = earth;
+		}
+		console.log(planet);
+	}
+	console.log(earth);
+}
+
+
+
+//Example #5
+
+function random(words){
+	if (words){
+		let letters = words;
+		if (letters){
+			let alphabet = letters;
+		}
+		console.log(alphabet);
+	}
+	console.log(letters);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
