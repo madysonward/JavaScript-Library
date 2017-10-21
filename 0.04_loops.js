@@ -85,7 +85,7 @@ Instructor's Way:
 var studentName = "Smita";
 var capSN = "";
 for ( var l in studentName) {
-	if (1 == o) {
+	if (1 == 0) {
 	capSN = studentName[1].toUpperCase();
 	} else {
 	capSN += studentName[1];
