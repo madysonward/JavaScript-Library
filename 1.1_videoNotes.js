@@ -21,69 +21,8 @@ var number = 2;
 
 //-----------------------------------------------------------------------------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //Engine - Responsible for start-finish compilation & execution
 //Compiler - Handles all parsing and code generation.
 //Scope - Collects a list of variables & decides when they are accessible
 
 var a = 1;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -7,86 +7,11 @@ var hello = "Hello";
 	console.log(hello); 
 })();
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //Example #2:
 
 (function($){
 	//jQuery methods go here...	
 })(jQuery);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 //Example #3:
 function myName(){
@@ -95,46 +20,6 @@ function myName(){
 		console.log("insert code to print to console here");
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 //Example #4
 
@@ -149,8 +34,6 @@ function greetings(world){
 	console.log(earth);
 }
 
-
-
 //Example #5
 
 function random(words){
@@ -163,20 +46,3 @@ function random(words){
 	}
 	console.log(letters);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
