@@ -4,19 +4,21 @@ console.log("Welcome to JavaScript");
 //TABLE OF CONTENTS: Where to Find What
 //***************************************************************************************
 /* 
-	0.0+ Built-in JavaScript Objects: From STRINGS, INTEGERS, BOOLEANS, & ARRAYS, to  
-									.EVAL(), PROMISES, and .MAP()...
+	0.0+ Built-in JavaScript Objects: From STRINGS, INTEGERS, BOOLEANS, to  
+										ARRAYS, PROMISES, & so on...
 
-	1.0+ Statements & Declarations: From VAR & LET, to CONST & LOOPS
+	1.0+ Immutable Data Objects: From .EVAL(), & .MAP(), to .CONCAT(). & the SPREAD OPERATOR
 
-	2.0+ Expressions & Operators: From CONDITIONALS, COMPARISON OPERATORS, and ASSIGNMENT 
+	2.0+ Statements & Declarations: From VAR & LET, to CONST & LOOPS
+
+	3.0+ Expressions & Operators: From CONDITIONALS, COMPARISON OPERATORS, and ASSIGNMENT 
 								OPERATORS, to FUNCTION EXPRESSIONS, NEW OPERATORS, and the
 								THIS keyword...
-	3.0+ Functions: All about FUNCTIONS
+	4.0+ Functions: All about FUNCTIONS
 
-	4.0+ Strict Mode: All about STRICT MODE
+	5.0+ Strict Mode: All about STRICT MODE
 
-	5.0+ Extras: SCOPE, IIFES, HOISTING, & BEYOND
+	6.0+ Extras: SCOPE, IIFES, HOISTING, & BEYOND
 */
 
 

@@ -1,3 +1,3 @@
 //***************************************************************************************
-//Strict Mode :: Easier Use of .eval() and arguments
+//STRICT MODE :: Writing Secure JavaScript & The Future of ECMAScript
 //***************************************************************************************

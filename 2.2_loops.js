@@ -1,5 +1,5 @@
 //***************************************************************************************
-//Loops
+//STATEMENTS & DECLARATIONS :: Loops
 //***************************************************************************************
 
 /* lcv is a Loop Control Variable. For example: for (var i = 0;)  In this case, i would be the lcv*/

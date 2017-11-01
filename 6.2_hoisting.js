@@ -1,5 +1,5 @@
 //***************************************************************************************
-//Hoisting:
+//HOISTING
 //***************************************************************************************
 
 /* Very important when it comes to variables and functions. It's when you declare things - you declare variables

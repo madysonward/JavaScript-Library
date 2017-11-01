@@ -1,5 +1,5 @@
 //***************************************************************************************
-//Object.keys()
+//OBJECTS :: .keys()
 //***************************************************************************************
 
 /* The Object.keys() method returns an array to represent all own enumerable properties of a given object. 

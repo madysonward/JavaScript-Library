@@ -1,5 +1,5 @@
 //***************************************************************************************
-//Arrays: .length Property
+//OBJECTS :: .length property
 //***************************************************************************************
 
 /* By now, .length has already become a commonly used/seen property - and not just with arrays!
