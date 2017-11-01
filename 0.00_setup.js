@@ -1,9 +1,29 @@
 console.log("Welcome to JavaScript");
 
 //***************************************************************************************
+//TABLE OF CONTENTS: Where to Find What
+//***************************************************************************************
+/* 
+	0.0+ Built-in JavaScript Objects: From STRINGS, INTEGERS, BOOLEANS, & ARRAYS, to  
+									.EVAL(), PROMISES, and .MAP()...
+
+	1.0+ Statements & Declarations: From VAR & LET, to CONST & LOOPS
+
+	2.0+ Expressions & Operators: From CONDITIONALS, COMPARISON OPERATORS, and ASSIGNMENT 
+								OPERATORS, to FUNCTION EXPRESSIONS, NEW OPERATORS, and the
+								THIS keyword...
+	3.0+ Functions: All about FUNCTIONS
+
+	4.0+ Strict Mode: All about STRICT MODE
+
+	5.0+ Extras: SCOPE, IIFES, HOISTING, & BEYOND
+*/
+
+
+
+//***************************************************************************************
 //Notes and Code: A Guide for All to Come
 //***************************************************************************************
-
 
 /* 
 Welcome to JavaScript! The lessons ahead will have both notes and code. Notes can be
